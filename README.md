@@ -1,9 +1,9 @@
-# sql
+# SQL
 Full SQL(Structured Query Language) project
 
 This project is sql based project
-#IDE
+# IDE
 PostgresSQL
 
-#METHODOLOGY
+# METHODOLOGY
 - Table Creation
